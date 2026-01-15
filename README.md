@@ -1,7 +1,8 @@
 **BACA**
+
 cara up perubahan:
-1. git clone
-2. buat branch
+1. cek lagi di branch mana, kalo di main pindah dulu, kalo ga bikin branch baru dulu
+2. nyimpen perubahan:
 > git add .
 > git commit -m "pesan"
 3. lakukan push branch, pastikan berada di branchmu
